@@ -36,4 +36,4 @@ def predict_datapoint():
 if __name__=="__main__":
     app.run(host="0.0.0.0",port=8080)
 
-    git add templates ridge.pkl scaler.pkl Algerian_forest_fires_cleaned_dataset.csv
+    
